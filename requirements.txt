@@ -1,0 +1,13 @@
+ipykernel
+pandas
+numpy
+seaborn
+matplotlib
+scikit-learn
+nltk
+spacy
+# selenium
+# webdriver_manager
+boto3
+botocore
+# -e .
