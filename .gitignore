@@ -164,4 +164,13 @@ cython_debug/
 
 artifact/*
 __pycache__
-NLP_SA.egg-info/*
+NLP_SA.egg-info/
+artifacts/
+notebooks/
+logs/
+__pycache__/
+*.pyc
+.env
+demo.py
+Instructions.md
+project_template.py
